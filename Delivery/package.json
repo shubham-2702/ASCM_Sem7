@@ -1,0 +1,54 @@
+{
+  "name": "t2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@react-leaflet/core": "^1.0.2",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.1.3",
+    "buffer": "^6.0.3",
+    "constants-browserify": "^1.0.0",
+    "ipfs": "^0.63.5",
+    "ipfs-api": "^26.1.2",
+    "ipfs-http-client": "^33.1.1",
+    "js-ipfs-fetch": "^4.0.0",
+    "leaflet": "^1.8.0",
+    "path-browserify": "^1.0.1",
+    "pincode-distance": "^1.0.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.33.1",
+    "react-leaflet": "^3.1.0",
+    "react-native-maps": "^1.0.2",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "4.0.3",
+    "stream-browserify": "^3.0.0",
+    "util": "^0.12.4",
+    "uuidv4": "^6.2.13",
+    "web-vitals": "^2.1.4",
+    "web3": "^1.7.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "react-error-overlay": "^6.0.9"
+  }
+}
