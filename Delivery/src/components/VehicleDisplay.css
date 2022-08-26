@@ -1,0 +1,12 @@
+.Vehicle-display-1 {
+  padding-top: 20px;
+}
+
+.Vehicle-display-2 {
+  display: flex;
+  justify-content: center;
+}
+
+.Owner-vehicle-display-1{
+  margin-top: 80px;
+}

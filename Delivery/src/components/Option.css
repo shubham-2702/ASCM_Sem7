@@ -1,0 +1,13 @@
+.optionClass1 {
+  display: flex;
+  margin-top: 80px;
+  justify-content: center;
+  text-align: left;
+}
+
+.optionButton {
+  margin-inline-end: 10px;
+  margin-inline-start: 10px;
+  width: 150px;
+  height: 50px;
+}
